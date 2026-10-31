@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "The Veritocratic Economy"
+message: "If you use this work, please cite it as below."
+type: dataset
+authors:
+  - given-names: Noah
+    family-names: Davidson
+license: CC0-1.0
+repository-code: "https://github.com/VelumSpiritus/Veritocratic-Economy"
+abstract: >-
+  An economic model that dissolves the extraction measured in the market
+  record without seizing the means of production and without pricing the
+  sovereign. Tax the produced surplus at the residual inflation rate,
+  never the person. Return the proceeds as universal income commensurate
+  with each human's attributable gift to the commons. Four documents:
+  The Question and Its Answer (the central measurement and mechanism),
+  Property Without Private (the deed as stock), The Written Law (ten
+  laws, each written twice), and the veritocratic rate module.
+keywords:
+  - veritocratic economy
+  - economic model
+  - extraction measurement
+  - universal income
+  - property without private
+  - residual inflation rate
+  - commons return
+  - deliberate line
+date-released: "2026-10-26"

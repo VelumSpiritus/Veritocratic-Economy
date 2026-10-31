@@ -1,0 +1,36 @@
+{
+  "title": "The Veritocratic Economy",
+  "description": "An economic model that dissolves the extraction measured in the market record without seizing the means of production and without pricing the sovereign. Four documents forming one argument: The Question and Its Answer (extraction measurement + veritocratic mechanism), Property Without Private (the deed as stock), The Written Law (ten laws written twice), and the reproducible rate module.",
+  "creators": [
+    {
+      "name": "Davidson, Noah",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "CC0-1.0",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "access_right": "open",
+  "keywords": [
+    "veritocratic economy",
+    "economic model",
+    "extraction measurement",
+    "universal income",
+    "property without private",
+    "residual inflation rate",
+    "commons return",
+    "deliberate line"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23355919",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23682150",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    }
+  ]
+}
